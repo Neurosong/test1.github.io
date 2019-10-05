@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://Neurosong.github.io/"/>
-  <updated>2019-10-05T06:59:33.118Z</updated>
+  <updated>2019-10-05T07:19:36.927Z</updated>
   <id>https://Neurosong.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://Neurosong.github.io/2019/10/05/%E6%B2%88%E9%9D%96%E6%B7%9E%E6%90%AD%E5%BB%BA%E7%8E%AF%E5%A2%83%E6%97%A5%E8%AE%B0/"/>
     <id>https://Neurosong.github.io/2019/10/05/沈靖淞搭建环境日记/</id>
     <published>2019-10-04T16:21:08.100Z</published>
-    <updated>2019-10-05T06:59:33.118Z</updated>
+    <updated>2019-10-05T07:19:36.927Z</updated>
     
     <content type="html"><![CDATA[<hr><p>title: 沈靖淞搭建环境日记<br>date: 2019-10-05 00:16:49<br>tags:<br>#这是一个测试文件<br>######这个环境搭的我好辛苦啊啊啊啊啊啊<br>######不知道接下来还会遇到什么样的问题<br>######加油加油加油加油。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
